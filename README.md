@@ -1,6 +1,9 @@
+## ALFA
 
-# Bravo
 
-Emily Corro La Gûaira
-Roger Josue Valencia
-Juenidtson Teques
+| Integrante  | Ubicación |
+| :--------   | :-------  |
+| Emily       | La Guaira |
+| Ausbel      | Maracay   |
+| Roger       | Valencia  |
+| Juenidtson  | Los Teques |
